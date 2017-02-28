@@ -11,18 +11,18 @@ By default, macOS doesn't include Bosnian keyboard layouts and flag icons. This 
 
 ![Bosnian Keyboard Layouts Preview](https://raw.githubusercontent.com/ministryofprogramming/bosnian-macos-keyboard/master/previews/preview_3.png "Available Bosnian Keyboard Layouts")
 
-# Instalation
-## Simple
+## Instalation
+### Simple
 Download **[Bosnian macOS Keyboard Layouts.pkg](https://github.com/ministryofprogramming/bosnian-macos-keyboard/raw/master/dist/Bosnian%20macOS%20Keyboard%20Layouts.pkg)**
 
 - Run the **Bosnian macOS Keyboard Layouts.pkg** installation.
 *Note*: System restart is required after the installation. macOS loads keyboard layouts on startup.
 
-## Advanced
+### Advanced
 - Copy contents of the `src` folder to `/Library/Keyboard Layouts`.
 - Restart your device.
 
-# Previews
+## Previews
 ![Bosnian Keyboard Layouts Preview4](https://raw.githubusercontent.com/ministryofprogramming/bosnian-macos-keyboard/master/previews/preview_4.png "Available Bosnian Keyboard Layouts")
 
 ![Bosnian Keyboard Layouts Preview 2](https://raw.githubusercontent.com/ministryofprogramming/bosnian-macos-keyboard/master/previews/preview_1.png "Available Bosnian Keyboard Layouts")
