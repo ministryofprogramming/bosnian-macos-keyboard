@@ -1,4 +1,10 @@
 # Bosnian macOS Keyboard Layouts
+
+> [!IMPORTANT]
+> **This is the old version of this project.** The layouts still work on newer macOS versions, but the design is out of date. Starting with **macOS Monterey 12.4**, Apple stopped using country flags as input source icons and replaced them with monochrome letter icons, so the flag icons in this package no longer match the system look.
+>
+> **The new version is available at [eldarc/bosnian-macos-keyboard](https://github.com/eldarc/bosnian-macos-keyboard).**
+
 By default, macOS doesn't include Bosnian keyboard layouts and flag icons. This package adds missing Bosnian icons and layouts.
 
 ### Included layouts:
